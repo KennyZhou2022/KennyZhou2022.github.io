@@ -15,7 +15,7 @@ Education
 
 # Publications
 
-1.	H. Zhou, K. Zhong, H. Jia, Y. Kang. Analysis of the effects of dynamic mesh update method on simulating indoor airflow induced by moving objects, Build. & Environ. 212 (2022) 108782. https://doi.org/10.1016/j.buildenv.2022.108782.
+1.	H. Zhou, K. Zhong, H. Jia, Y. Kang. Analysis of the effects of dynamic mesh update method on simulating indoor airflow induced by moving objects, Build. & Environ. 212 (2022) 108782. [DOI: 10.1016/j.buildenv.2022.108782](https//doi.org/10.1016/j.buildenv.2022.108782).
 1.	H. Zhou, Y. Sun, K. Zhong, Y. Wang, J. Cai, Y. Kang. Regional standardized particle size distributions for developing a Chinese filter testing standard used in building ventilation, J. of Build. Eng. 44 (2021) 102972. https://doi.org/10.1016/j.jobe.2021.102972.
 1.	J. Xu, H. Jia, H. Zhou, Y. Kang, K. Zhong. Influences of offshore background wind on the formation of sea-land breeze and the characteristics of pollutant diffusion, Environ. Sci. Pollut. Res. 28 (2021) 68318–68329. https://doi.org/10.1007/s11356-021-15339-7.
 1.	H. Zhou, Y. Kang, F. Yang, G. Liu, K. Zhong. Studies on the most unfavorable distance between the upstream building and the windward building in street canyons in urban area, China Environmental Science. 39 (2019) 4125–4132. https://doi.org/10.19674/j.cnki.issn1000-6923.2019.0483.
