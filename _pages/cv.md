@@ -7,26 +7,22 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Civil Engineering, Donghua University, 9/2017 – present.
+* B.S. in Building Environment and Energy Application Engineering, University of Shanghai for Science and Technology, 9/2013 – 6/2017.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Publications
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+1.	H. Zhou, K. Zhong, H. Jia, Y. Kang. Analysis of the effects of dynamic mesh update method on simulating indoor airflow induced by moving objects, Build. & Environ. 212 (2022) 108782. https://doi.org/10.1016/j.buildenv.2022.108782.
+1.	H. Zhou, Y. Sun, K. Zhong, Y. Wang, J. Cai, Y. Kang. Regional standardized particle size distributions for developing a Chinese filter testing standard used in building ventilation, J. of Build. Eng. 44 (2021) 102972. https://doi.org/10.1016/j.jobe.2021.102972.
+1.	J. Xu, H. Jia, H. Zhou, Y. Kang, K. Zhong. Influences of offshore background wind on the formation of sea-land breeze and the characteristics of pollutant diffusion, Environ. Sci. Pollut. Res. 28 (2021) 68318–68329. https://doi.org/10.1007/s11356-021-15339-7.
+1.	H. Zhou, Y. Kang, F. Yang, G. Liu, K. Zhong. Studies on the most unfavorable distance between the upstream building and the windward building in street canyons in urban area, China Environmental Science. 39 (2019) 4125–4132. https://doi.org/10.19674/j.cnki.issn1000-6923.2019.0483.
+1.	P. Liu, H. Zhou, X. Wang, R. Lu, W. Liu, Q. Jiang, Y. Gong, Y. Zhou, C. Huang. Relationship between indoor temperature, relative humidity, ventilation and formaldehyde, benzene-series concentrations in children’s bedrooms, J. Environ. Health. 35 (2018) 991–994. https://doi.org/10.16241/j.cnki.1001-5914.2018.11.014.
+1.	Q. Jiang, P. Liu, X. Wang, R. Lu, W. Liu, H. Zhou, Y. Gong, Y. Zhou, C. Huang. Indoor Formaldehyde and Benzene series in Shanghai residences and their associations with building characteristics and lifestyle behaviors, Environmental Science. 39 (2018) 585–591. https://doi.org/10.13227/j.hjkx.201703144.
+
+
 Skills
 ======
 * Skill 1
