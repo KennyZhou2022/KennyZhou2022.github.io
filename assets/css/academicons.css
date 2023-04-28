@@ -65,14 +65,6 @@
 	-moz-osx-font-smoothing:grayscale;
 }
 
-.ai {
-	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
-	font-size:inherit;
-	text-rendering:auto;
-	-webkit-font-smoothing:antialiased;
-	-moz-osx-font-smoothing:grayscale;
-}
 .ai-academia:before {
   content: "\e800";
 }
