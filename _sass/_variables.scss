@@ -21,12 +21,6 @@ $doc-font-size              : 16;
    font-style: normal;
 }
 @font-face {
-   font-family: 'LxgwWenKailight';
-   src: url('/assets/fonts/LXGWWenKai-Light.ttf') format('truetype');
-   font-weight: lighter;
-   font-style: normal;
-}
-@font-face {
    font-family: 'LxgwWenKaiMono';
    src: url('/assets/fonts/LXGWWenKaiMono-Regular.ttf') format('truetype');
    font-weight: normal;
@@ -36,12 +30,6 @@ $doc-font-size              : 16;
    font-family: 'LxgwWenKaiMono';
    src: url('/assets/fonts/LXGWWenKaiMono-Bold.ttf') format('truetype');
    font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: 'LxgwWenKaiMono';
-   src: url('/assets/fonts/LXGWWenKaiMono-Light.ttf') format('truetype');
-   font-weight: lighter;
    font-style: normal;
 }
 
