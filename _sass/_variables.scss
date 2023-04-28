@@ -50,8 +50,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "LxgwWenKai";
-$sans-serif                 : "LxgwWenKailight";
+$serif                      : $times;
+$sans-serif                 : $times;
 $monospace                  : "LxgwWenKaiMono";
 
 /* sans serif typefaces */
