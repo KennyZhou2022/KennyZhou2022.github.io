@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title | xml_escape }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="{{ '/css/normalize.css' | relative_url }}" rel="stylesheet" type="text/css" />
+  <link href="{{ '/css/skeleton.css' | relative_url }}" rel="stylesheet" type="text/css" />
+  <link href="{{ '/css/main.css' | relative_url }}" rel="stylesheet" type="text/css" />
+  <link href="{{ '/css/print.css' | relative_url }}" media="print" rel="stylesheet" type="text/css" />
+  <link href="{{ '/css/custom.css' | relative_url }}" rel="stylesheet" type="text/css" />
+  <link href="{{ '/fonts/LXGWWenKaiMono-Regular.ttf' | relative_url }}" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+    body {
+        font-family: 'LXGWWenKai' !important;
+    }
+    .ai {
+        font-family: 'Academicons' !important;
+    }
+  </style>
+  {% if page.lang == nil %}{% assign page.lang = site.lang %}{% endif %}
+  {% seo %}
+</head>
+<body>
