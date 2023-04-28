@@ -10,37 +10,37 @@ $doc-font-size              : 16;
 
 @font-face {
    font-family: 'LxgwWenKai';
-   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Regular.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Regular.ttf');
    font-weight: normal;
    font-style: normal;
 }
 @font-face {
    font-family: 'LxgwWenKai';
-   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Bold.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Bold.ttf');
    font-weight: bold;
    font-style: normal;
 }
 @font-face {
    font-family: 'LxgwWenKai';
-   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Light.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Light.ttf');
    font-weight: lighter;
    font-style: normal;
 }
 @font-face {
    font-family: 'LxgwWenKaiMono';
-   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Regular.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Regular.ttf');
    font-weight: normal;
    font-style: normal;
 }
 @font-face {
    font-family: 'LxgwWenKaiMono';
-   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Bold.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Bold.ttf');
    font-weight: bold;
    font-style: normal;
 }
 @font-face {
    font-family: 'LxgwWenKaiMono';
-   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Light.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Light.ttf');
    font-weight: lighter;
    font-style: normal;
 }
@@ -55,8 +55,8 @@ $sans-serif                 : "LxgwWenKai";
 $monospace                  : "LxgwWenKaiMono";
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$sans-serif-narrow          : "LxgwWenKai";
+$helvetica                  : "LxgwWenKai";
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
