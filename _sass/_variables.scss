@@ -15,21 +15,15 @@ $doc-font-size              : 16;
    font-style: normal;
 }
 @font-face {
-   font-family: 'LxgwWenKai';
-   src: url('/assets/fonts/LXGWWenKai-Bold.ttf') format('truetype');
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
    font-family: 'LxgwWenKaiMono';
    src: url('/assets/fonts/LXGWWenKaiMono-Regular.ttf') format('truetype');
    font-weight: normal;
    font-style: normal;
 }
 @font-face {
-   font-family: 'LxgwWenKaiMono';
-   src: url('/assets/fonts/LXGWWenKaiMono-Bold.ttf') format('truetype');
-   font-weight: bold;
+   font-family: 'LXGWWenKaiScreen';
+   src: url('/assets/fonts/LXGWWenKaiScreen.ttf') format('truetype');
+   font-weight: normal;
    font-style: normal;
 }
 
@@ -39,7 +33,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "LxgwWenKai";
+$sans-serif                 : "LXGWWenKaiScreen";
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -53,7 +47,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : "LxgwWenKai";
+$global-font-family         : "LXGWWenKaiScreen";
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
