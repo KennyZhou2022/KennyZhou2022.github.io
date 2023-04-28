@@ -10,42 +10,37 @@ $doc-font-size              : 16;
 
 @font-face {
    font-family: 'LxgwWenKai';
-   src: url('/assets/fonts/LXGWWenKai-Regular.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Regular.ttf') format('truetype');
    font-weight: normal;
    font-style: normal;
 }
-
 @font-face {
    font-family: 'LxgwWenKai';
-   src: url('/assets/fonts/LXGWWenKai-Bold.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Bold.ttf') format('truetype');
    font-weight: bold;
    font-style: normal;
 }
-
 @font-face {
    font-family: 'LxgwWenKai';
-   src: url('/assets/fonts/LXGWWenKai-Light.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKai-Light.ttf') format('truetype');
    font-weight: lighter;
    font-style: normal;
 }
-
 @font-face {
    font-family: 'LxgwWenKaiMono';
-   src: url('/assets/fonts/LXGWWenKaiMono-Regular.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Regular.ttf') format('truetype');
    font-weight: normal;
    font-style: normal;
 }
-
 @font-face {
    font-family: 'LxgwWenKaiMono';
-   src: url('/assets/fonts/LXGWWenKaiMono-Bold.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Bold.ttf') format('truetype');
    font-weight: bold;
    font-style: normal;
 }
-
 @font-face {
    font-family: 'LxgwWenKaiMono';
-   src: url('/assets/fonts/LXGWWenKaiMono-Light.ttf') format('truetype');
+   src: url('https://github.com/lxgw/LxgwWenKai/releases/download/v1.250/LXGWWenKaiMono-Light.ttf') format('truetype');
    font-weight: lighter;
    font-style: normal;
 }
@@ -70,9 +65,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : "LxgwWenKai", $sans-serif;
-$header-font-family         : "LxgwWenKai", $sans-serif;
-$caption-font-family        : "LxgwWenKaiMono", $serif;
+$global-font-family         : "LxgwWenKai";
+$header-font-family         : "LxgwWenKai";
+$caption-font-family        : "LxgwWenKaiMono";
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
