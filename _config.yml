@@ -2,14 +2,14 @@ locale: en-US
 title: Huayuan ZHOU
 title_separator: '-'
 name: Huayuan ZHOU
-description: HVACer, CFDer, PhD candidate in civil Engineering
+description: HVACer, CFDer, PhD candidate in Civil Engineering
 url: https://kennyzhou2022.github.io
 baseurl: ''
 repository: KennyZhou2022/academicpages.github.io
 teaser: null
 breadcrumbs: false
 words_per_minute: 160
-future: true
+future: false
 read_more: disabled
 talkmap_link: false
 comments:
@@ -69,7 +69,7 @@ analytics:
 author:
   name: Huayuan ZHOU
   avatar: profile.jpeg
-  bio: HVACer, CFDer, PhD candidate in civil Engineering
+  bio: HVACer, CFDer, PhD candidate in Civil Engineering
   location: Shanghai, China
   employer: null
   pubmed: null
