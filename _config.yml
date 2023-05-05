@@ -9,7 +9,7 @@ repository: KennyZhou2022/academicpages.github.io
 teaser: null
 breadcrumbs: false
 words_per_minute: 160
-future: true
+future: false
 read_more: disabled
 talkmap_link: false
 comments:
