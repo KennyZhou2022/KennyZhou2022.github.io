@@ -96,7 +96,7 @@ author:
   stackoverflow: null
   steam: null
   tumblr: null
-  twitter: KennyZHOU11
+  twitter: null
   vine: null
   weibo: null
   xing: null
@@ -152,7 +152,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:

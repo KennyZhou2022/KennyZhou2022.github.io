@@ -1,9 +1,9 @@
 ---
-title: "research 1"
+title: "Study on the coupling transportations of aerosol in hazy environment within the canopy of urban micro-scale environment"
 collection: research
-type: "Undergraduate course"
+type: "General project of National Natural Science Foundation of China"
 permalink: /research/street_canyon
-venue: "University 1, Department"
+venue: "Prof. Yanming Kang"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
