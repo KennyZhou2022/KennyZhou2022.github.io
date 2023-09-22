@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign last_four_projects = "" | split: "," %}
 {% for post in site.projects reversed %}
+  {% if last_four_projects.size < 4 %}
+    {% assign last_four_projects = last_four_projects | push: post %}
+  {% else %}
+    {% assign last_four_projects = last_four_projects | shift | push: post %}
+  {% endif %}
+{% endfor %}
+
+{% for post in last_four_projects reversed %}
   {% include archive-single-projects.html %}
+{% endfor %}
+
+{% for post in site.projects reversed offset:4 %}
+  {% unless last_four_projects contains post %}
+    {% include archive-single-projects.html %}
+  {% endunless %}
 {% endfor %}
