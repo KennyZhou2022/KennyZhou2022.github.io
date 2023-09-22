@@ -15,13 +15,16 @@ author_profile: true
     {% assign last_four_projects = last_four_projects | shift | push: post %}
   {% endif %}
 {% endfor %}
+<p></p>
+<h2><i>Research Projects</i></h2>
 
-{% for post in last_four_projects reversed %}
-  {% include archive-single-projects.html %}
-{% endfor %}
-
-{% for post in site.projects reversed offset:4 %}
-  {% unless last_four_projects contains post %}
+  {% for post in last_four_projects reversed %}
     {% include archive-single-projects.html %}
-  {% endunless %}
-{% endfor %}
+  {% endfor %}
+
+<h2><i>Commercial Projects</i></h2>
+  {% for post in site.projects reversed offset:4 %}
+    {% unless last_four_projects contains post %}
+      {% include archive-single-projects.html %}
+    {% endunless %}
+  {% endfor %}

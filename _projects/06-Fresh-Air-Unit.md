@@ -1,8 +1,8 @@
 ---
-title: "Structure Optimization of Fan Filter Unit (FFU)"
+title: "Structure Optimization of the Air Duct in Fresh Air Unit"
 collection: projects
-type: "4/2018 – 3/2019"
-permalink: /research/05-FFU
+type: "4/2019 – 3/2020"
+permalink: /research/06-Fresh-Air-Unit
 venue: "Advisor: Prof. Ke Zhong"
 role: "Participant"
 ---

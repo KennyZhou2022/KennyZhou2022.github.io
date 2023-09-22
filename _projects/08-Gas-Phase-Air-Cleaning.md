@@ -1,10 +1,10 @@
 ---
-title: "Structure Optimization of Fan Filter Unit (FFU)"
+title: "Development of Product Inspection System for Gas-Phase Air Cleaning Device"
 collection: projects
-type: "4/2018 – 3/2019"
-permalink: /research/05-FFU
+type: "9/2020 – 3/2021"
+permalink: /research/08-Gas-Phase-Air-Cleaning
 venue: "Advisor: Prof. Ke Zhong"
-role: "Participant"
+role: "Leader"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
