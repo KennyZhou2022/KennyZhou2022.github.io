@@ -7,13 +7,4 @@ venue: "Advisor: Prof. Ke Zhong"
 role: "Leader"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+By modeling the waste treatment facility and its surrounding buildings, simulating the flow field and pollutant dispersion processes, and analyzing the results, the emission concentration of the waste treatment facility can be guided.

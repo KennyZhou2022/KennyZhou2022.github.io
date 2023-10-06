@@ -7,13 +7,4 @@ venue: "Advisor: Prof. Ke Zhong"
 role: "Participant"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+By modeling the Fresh Air Unit, simulating the airflow in the unit and analyzing the results, the internal air ducts can be optimized to reduce resistance and noise.
