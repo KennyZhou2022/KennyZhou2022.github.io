@@ -2,7 +2,7 @@ locale: en-US
 title: Huayuan ZHOU
 title_separator: '-'
 name: Huayuan ZHOU
-description: HVACer, CFDer, PhD candidate in Civil Engineering
+description: HVACer, CFDer, Sr. Engineer in Carrier
 url: https://kennyzhou2022.github.io
 baseurl: ''
 repository: KennyZhou2022/academicpages.github.io
@@ -74,7 +74,7 @@ author:
   employer: null
   pubmed: null
   googlescholar: https://scholar.google.com/citations?user=KjzrMOUAAAAJ
-  email: huayuan.zhou@mail.dhu.edu.cn
+  email: zhouhuayuan@gmail.com
   researchgate: https://www.researchgate.net/profile/Huayuan-Zhou
   uri: null
   bitbucket: null

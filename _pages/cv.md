@@ -8,15 +8,29 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Download the PDF version](http://KennyZhou2022.github.io/files/CV_ZHY_2310.pdf)
+[Download the PDF version](http://KennyZhou2022.github.io/files/CV_ZhouHuayuan_0626.pdf)
+
+
+Experience
+======
+Carrier Shanghai R&D Center | Senior Calculation Engine Develop Engineer | Jan 2024 – present
+* Delivered production-grade Modelica-based system models for multiple commercial HVAC products, directly
+supporting data center customer orders through accurate performance prediction, validation, and timely
+engineering delivery.
+* Improved engineering workflows by developing Python-based toolchains and eliminating bottlenecks in system
+model delivery.
+* Leading a Physical AI initiative to accelerate HVAC product development and streamline lab testing processes.
 
 Education
 ======
-* Ph.D in Civil Engineering, Donghua University, 9/2017 – present.
+* Ph.D in Civil Engineering, Donghua University, 9/2017 – 12/2023.
 * B.S. in Building Environment and Energy Application Engineering, University of Shanghai for Science and Technology, 9/2013 – 6/2017.
 
 Publications
 ======
+1. Y. Lu, J. He, Y Gu, **H. Zhou**, L. Yuan. Optimizing wall structure for enhanced thermal
+performance: A layer-specific dimensionless parameter analysis in multi-layer walls, Journal
+of Building Engineering. 94 (2024) 108782. https://doi.org/10.1016/j.buildenv.2022.108782.
 1.	**H. Zhou**, K. Zhong, H. Jia, Y. Kang. Analysis of the effects of dynamic mesh update method on simulating indoor airflow induced by moving objects, *Building and Environment*. 212 (2022) 108782. [DOI: 10.1016/j.buildenv.2022.108782](https://doi.org/10.1016/j.buildenv.2022.108782).
 1.	**H. Zhou**, Y. Sun, K. Zhong, Y. Wang, J. Cai, Y. Kang. Regional standardized particle size distributions for developing a Chinese filter testing standard used in building ventilation, *Journal of Building Engineering*. 44 (2021) 102972. [DOI: 10.1016/j.jobe.2021.102972](https://doi.org/10.1016/j.jobe.2021.102972).
 1.	J. Xu, H. Jia, **H. Zhou**, Y. Kang, K. Zhong. Influences of offshore background wind on the formation of sea-land breeze and the characteristics of pollutant diffusion, *Environmental Science and Pollution Research*. 28 (2021) 68318–68329. [DOI: 10.1007/s11356-021-15339-7](https://doi.org/10.1007/s11356-021-15339-7).
@@ -76,7 +90,7 @@ Projects
 Relevant Skills
 ======
 * Language: English (IELTS 6.0, 10/2022).
-* CFD commercial software: ANSYS Fluent (for modeling and simulation), ANSYS ICEM (for geometry and mesh generation), COMSOL.
+* CFD commercial software: Modelica (for modeling and simulation), ANSYS Fluent (for modeling and simulation), ANSYS ICEM (for geometry and mesh generation), COMSOL.
 * 3D modeling software: CAD, ANSYS Spaceclaim.
-* Programming: Python (for data processing), MATLAB (for curve fitting), C (for User Defined Function in ANSYS Fluent).
+* Programming: Python (for data processing and simulation), MATLAB (for curve fitting), C (for User Defined Function in ANSYS Fluent).
 * Other software: Tecplot (for postprocessing), OriginLab (for figure production), Adobe Photoshop (for figure production).
